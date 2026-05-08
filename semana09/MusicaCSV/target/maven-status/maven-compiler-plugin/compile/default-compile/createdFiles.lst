@@ -1,0 +1,5 @@
+classes\Musica.class
+com\mycompany\musicacsv\MusicaCSV.class
+classes\GerenciadorMusica.class
+classes\FilePersistence.class
+classes\SerializadorCSVMusicas.class
